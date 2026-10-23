@@ -1,6 +1,6 @@
 {
-  "version": "0.7.12",
-  "build": 21,
-  "apkUrl": "https://github.com/NELZMD29/ai-khor-alzubair-releases/releases/download/v0.7.12/app-release.apk",
-  "notes": "خرائط أذكى: اتجاهات سيارة/مشي مع خطوات الطريق، أنماط خريطة جديدة (تضاريس، دراجات، نقل عام، قمر صناعي)، دبابيس تتدرج مع الزوم مثل Google، ووضع قيادة بالبوصلة."
+  "version": "0.7.13",
+  "build": 22,
+  "apkUrl": "https://github.com/NELZMD29/ai-khor-alzubair-releases/releases/download/v0.7.13/app-release.apk",
+  "notes": "إصلاح المحدّث من الجذر: فحص عبر HTTPS أولاً، وشاشة «تشخيص الاتصال» الجديدة في الإعدادات."
 }
