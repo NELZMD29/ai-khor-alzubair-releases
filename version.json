@@ -1,6 +1,6 @@
 {
-  "version": "0.7.13",
-  "build": 22,
-  "apkUrl": "https://github.com/NELZMD29/ai-khor-alzubair-releases/releases/download/v0.7.13/app-release.apk",
-  "notes": "إصلاح المحدّث من الجذر: فحص عبر HTTPS أولاً، وشاشة «تشخيص الاتصال» الجديدة في الإعدادات."
+  "version": "0.7.14",
+  "build": 23,
+  "apkUrl": "https://github.com/NELZMD29/ai-khor-alzubair-releases/releases/download/v0.7.14/app-release.apk",
+  "notes": "حزمة النعومة: دبابيس تتدرج بنعومة مع الزوم وأسماء تتلاشى ظهوراً، وطيران مموّه للكاميرا عند الانتقال لموقعك أو لأي وجهة."
 }
