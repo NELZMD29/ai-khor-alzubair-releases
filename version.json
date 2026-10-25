@@ -1,6 +1,6 @@
 {
-  "version": "0.7.14",
-  "build": 23,
-  "apkUrl": "https://github.com/NELZMD29/ai-khor-alzubair-releases/releases/download/v0.7.14/app-release.apk",
-  "notes": "حزمة النعومة: دبابيس تتدرج بنعومة مع الزوم وأسماء تتلاشى ظهوراً، وطيران مموّه للكاميرا عند الانتقال لموقعك أو لأي وجهة."
+  "version": "0.7.15",
+  "build": 24,
+  "apkUrl": "https://github.com/NELZMD29/ai-khor-alzubair-releases/releases/download/v0.7.15/app-release.apk",
+  "notes": "دبابيس وأسماء مستقيمة دائماً + أسماء ذكية بلا تشابك + ظهور متدرّج تفاعلي مع الزوم"
 }
